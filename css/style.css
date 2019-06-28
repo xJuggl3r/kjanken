@@ -291,11 +291,11 @@ footer {
 }
 
 /* MOBILE PORTRAIT */
-@media only screen and (min-width: 320px) {
+/* @media only screen and (min-width: 320px) {
 	body {
 		
 	}
-}
+} */
 
 /* MOBILE LANDSCAPE */
 @media only screen and (min-width: 480px) {
